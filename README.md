@@ -1,7 +1,7 @@
 # xlstm_win32
 ## Usage:<br>
 Alternative code for xlstm, make it work on windows. use `cuda_init.py` cover the `(workspacefloder)/xlstm/blocks/slstm/src/cuda_init.py`.<br>
-Changes in cuda_init.py were commented, with `edit` in the start of the comments. 
+Changes in cuda_init.py were commented, with `edit` in the start of the comments. <br>
 Don't forget to use `pip uninstall xlstm` to remove xlstm package in your python enviroment.<br>
 ## Enviroment:<br>
 This is my `build.ninja`:
